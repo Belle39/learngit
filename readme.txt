@@ -5,3 +5,5 @@ Git tracks changes of files
 test change first
 test change second
 Creating a new branch is quick is and simple.
+add merge
+

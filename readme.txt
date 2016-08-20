@@ -7,3 +7,4 @@ test change second
 Creating a new branch is quick is and simple.
 add merge
 
+change 3
